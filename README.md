@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![banner](https://user-images.githubusercontent.com/72584422/100377976-19b75080-2ff1-11eb-946f-89f3aa3ecd3f.jpg)
 
-# :spades: Gedson Monteiro :diamonds:
+<!--# :spades: Gedson Monteiro :diamonds:-->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gedsonmonteiro/)](https://www.linkedin.com/in/gedsonmonteiro/)
 

@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 
 ## Games :video_game:
 
-<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> g3ds0n_BR
-<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+### g3ds0n_BR
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+
+### G3ds0n
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+
+### G3ds0n
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />

@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 [![QRCode Badge](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgedsonmonteiro%2F)](https://www.linkedin.com/in/gedsonmonteiro/)
 
-## Education :mortar_board:
+## :mortar_board: Education
 
-  ### Federal Institute of Pernambuco IFPE :school:
+  ### :school: Federal Institute of Pernambuco IFPE
   - Industrial Automation :trophy:
 
-  ### FICR - Faculdade Católica Imaculada Conceição do Recife :school:
+  ### :school: FICR - Faculdade Católica Imaculada Conceição do Recife
   - Internet Systems :trophy:
 
 
-## Skills (student) :rocket:
+## :rocket: Skills (student)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Figma-6495ED?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-Win7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
-## Games :video_game:
+## :video_game: Games
 
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/gedsonpe)](https://steamcommunity.com/id/gedsonpe)
 

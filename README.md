@@ -20,19 +20,29 @@ Here are some ideas to get you started:
 
 ## Education :mortar_board:
 
-  Federal Institute of Pernambuco IFPE
+  ### Federal Institute of Pernambuco IFPE
   - Industrial Automation :trophy:
 
-  FICR - Faculdade Católica Imaculada Conceição do Recife
+  ### FICR - Faculdade Católica Imaculada Conceição do Recife
   - Internet Systems :trophy:
 
 
-## Skills :rocket:
+## Skills (student) :rocket:
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
+
 ## Workspace Spec :computer:
 
-<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img 
+<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-Win7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+## Games :video_game:
+
+<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" / g3ds0n_BR> 
+<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />

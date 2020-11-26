@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 
 ### G3ds0n
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+
+[![Steam Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://steamcommunity.com/id/gedsonpe)](https://steamcommunity.com/id/gedsonpe)

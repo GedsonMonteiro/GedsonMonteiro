@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gedson Monteiro :sunglasses:
-
+# :spades: Gedson Monteiro :diamonds:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gedsonmonteiro/)](https://www.linkedin.com/in/gedsonmonteiro/)
+
+## Education :mortar_board:
+
+  Federal Institute of Pernambuco IFPE
+  - Industrial Automation :trophy:
+
+  FICR - Faculdade Católica Imaculada Conceição do Recife
+  - Internet Systems :trophy:
+
+
+## Skills
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+

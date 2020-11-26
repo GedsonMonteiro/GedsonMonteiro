@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/Kingston-16Gb-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Kingston-16Gb-0071C5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Windows-Win7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 

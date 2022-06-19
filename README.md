@@ -43,10 +43,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/Kingston-16Gb-0071C5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Windows-Win10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-
-## :video_game: Games
-
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/gedsonpe)](https://steamcommunity.com/id/gedsonpe)
-
-
